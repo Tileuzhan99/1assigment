@@ -20,3 +20,4 @@ public class Main {
         System.out.println("Organization: " + organization.getName() + ", Country: " + organization.getCountry());
     }
 }
+//66git status
